@@ -1,3 +1,4 @@
+Symmetric Encryption Algorithm 
 
 # How to run program: 
 1. 
